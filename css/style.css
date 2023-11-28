@@ -15,9 +15,7 @@ body {
 
 .wrapper {
     user-select: none;
-.tiempo {
-        height: 100px;
-    }
+    
     
 }
 .wrapper .tiempo {
